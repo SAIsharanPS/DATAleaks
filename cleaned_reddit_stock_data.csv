@@ -1,0 +1,1397 @@
+score,comments,created_utc,content,cleaned_content
+80,2905,1728640632.0,"Daily Discussion Thread for October 11, 2024 [View Post](https://sh.reddit.com/r/wallstreetbets/comments/1g166ia)",daily discussion thread for october   view post
+3,0,1728656177.0,Weekly Earnings Thread 10/14 - 10/18 ,weekly earnings thread    
+9468,3433,1728621111.0,Tesla Robovan  ,tesla robovan  
+4616,1298,1728620714.0,Cybercab demo  ,cybercab demo  
+5250,248,1728611955.0,Insurance companies in FL right now ,insurance companies in fl right now 
+1563,582,1728623021.0,Cybercab first ride ,cybercab first ride 
+857,300,1728621917.0,Optimus can talk ,optimus can talk 
+964,916,1728615953.0,Musk - Robotaxi to be $30k and confirmed to be available in 2026 Extrmeely bullishh,musk  robotaxi to be k and confirmed to be available in  extrmeely bullishh
+426,105,1728624415.0,I’ll never touch options again  Roast me. Discovered options in March 24. Quick spike up and made about 10k.. all downhill from then. Lost 20k since the end of august mostly on NVDA earnings and IV crush got me. ,ill never touch options again  roast me discovered options in march  quick spike up and made about k all downhill from then lost k since the end of august mostly on nvda earnings and iv crush got me 
+235,245,1728631133.0,All in Tesla? ,all in tesla 
+349,26,1728617390.0,I have seen that jacket before… ,i have seen that jacket before 
+698,120,1728588546.0,"Big come back Had a big come back, I was down approximately 45k at one point. Loss after loss after loss.
+
+Shifted my strategy to options that are “safer,” also I stopped attempting to earn large returns, I sold after 10% returns on average.
+
+My main strategy was SPY calls, I would wait for a quick sell off, and buy in. If it went against me, I would buy more. Cut loses at 25%.
+
+I would buy calls depending on how i perceived sentiment. I strongly believe what makes a trader successful, is if he or she can effectively gauge sentiment. Not lines on a chart and dumb shit like “bollinger bands.”
+
+I do not consider myself a successful trading overall, but I can say that sentiment is everything.
+
+My strategy will work until it doesn’t.","big come back had a big come back i was down approximately k at one point loss after loss after loss
+
+shifted my strategy to options that are safer also i stopped attempting to earn large returns i sold after  returns on average
+
+my main strategy was spy calls i would wait for a quick sell off and buy in if it went against me i would buy more cut loses at 
+
+i would buy calls depending on how i perceived sentiment i strongly believe what makes a trader successful is if he or she can effectively gauge sentiment not lines on a chart and dumb shit like bollinger bands
+
+i do not consider myself a successful trading overall but i can say that sentiment is everything
+
+my strategy will work until it doesnt"
+26,44,1728648554.0,"TESLA CYBERCAB VS WAYMO : AN ANALYSIS  For all the regards who don't know, Waymo is the market leader in true autonomous vehicles right now. They have been operating a fleet of robo taxis (fully autonomous cars) in multiple cities for a while now. 
+
+So I did a short comparison and analysis. 
+
+
+
+KEY POINTS FROM ""WE, ROBOT"" EVENT:
+
+
+
+1. The robotaxi is a purpose-built autonomous vehicle, lacking a steering wheel or pedals, meaning it will need approval from regulators before going into production.
+
+.
+.
+
+2. Tesla plans to launch fully autonomous driving in Texas and California next year, with the Cybercab production by 2026 — although he said it could be as late as 2027. 
+
+.
+.
+
+3. Tesla is developing the Optimus robot, which could be available for $20,000-$30,000, and is capable of performing various tasks.
+
+
+.
+.
+
+4. Cybercab was revealed the prototype robotaxi at Tesla's ""We, Robot” event held at the Warner Bros. film lot in Burbank, California, with a lot of non-public roads for the demonstration. 
+
+
+.
+.
+
+5. Tesla has reportedly been mapping the area in advance of the demonstration, even though the company says it doesn't rely on high-definition maps to power its Full Self-Driving (FSD) driver-assist feature
+
+
+.
+.
+.
+
+
+TESLA VS WAYMO : KEY DIFFERENCES IN TECHNOLOGY AND APPROACH 
+
+
+
+.
+.
+
+1. Sensing the World:
+
+ -  - Waymo's Multi-Sensor Fusion:  Waymo uses a suite of sensors that work together. This is like having multiple senses.
+
+
+I. Lidar:  Acts like super-precise radar, creating a 3D ""point cloud"" of the surroundings. This excels in low-light and complex environments.
+
+II. Radar: Detects objects and their speed, even in rain or fog.
+   
+
+III. Cameras: Provide visual information for recognizing objects like traffic lights and pedestrians.
+
+
+
+
+- - Tesla's Vision-Only System: Tesla relies heavily on cameras, believing that they can provide enough data for AI to understand the world like humans do.
+
+
+I. Neural Networks:  Tesla uses powerful AI to process the visual data from cameras.
+
+
+II. No Lidar:  Tesla famously excludes lidar, arguing it's expensive and unnecessary.
+
+
+- Why this matters:  Lidar provides highly accurate depth and distance data, which is crucial for navigating complex situations. Tesla's vision-only approach is more ambitious but may struggle in conditions where cameras are less effective (e.g., heavy rain, fog).
+
+
+
+.
+.
+
+
+2. Understanding the Environment:
+
+I. Waymo's HD Maps: Waymo creates incredibly detailed 3D maps of the areas where its vehicles operate. These maps include road geometry, lane markings, traffic signs, and even the positions of trees and buildings.
+
+
+II.  Localization: This allows Waymo's cars to precisely locate themselves within the map, even in challenging conditions.
+
+
+III. Predictability:  Maps help anticipate what's coming and plan routes accordingly.
+
+
+IV.  Tesla's Real-Time Learning: Tesla relies less on pre-mapped environments. Its AI learns to interpret the world in real-time, based on the data it gathers from its cameras.
+
+
+V. Generalization: The goal is to create a system that can drive anywhere, not just in pre-mapped areas.
+
+
+VI. Adaptability: Tesla's system can potentially adapt to new environments and situations more quickly.
+
+
+
+- - Why this matters: Waymo's HD maps provide a high level of certainty in known areas, but mapping is expensive and time-consuming. Tesla's approach is more scalable but relies heavily on the AI's ability to correctly interpret complex scenes.
+
+
+
+.
+.
+.
+
+3. Deployment Strategies:
+
+I. Waymo's Gradual Rollout: Waymo has focused on deploying its robotaxi service in specific cities, starting with Phoenix. This allows for careful testing and refinement in controlled environments.
+
+
+II.  Safety First:  Waymo prioritizes safety and has a strong track record.
+
+III.  Controlled Expansion:  They expand their service area gradually as they gain confidence in their technology.
+
+
+
+ IV.  Tesla's Beta Testing: Tesla has released its Full Self-Driving (FSD) beta software to a wider group of drivers. This allows them to gather vast amounts of real-world driving data.
+
+
+V.  Rapid Iteration:  Tesla can quickly improve its system through frequent software updates.
+
+
+ VI. Driver Responsibility:  FSD is still a driver-assist system, and drivers are expected to remain vigilant and take over when necessary.
+
+
+- -  Why this matters: Waymo's approach is more cautious, prioritizing safety and controlled testing. Tesla's approach is faster and more agile, but it also carries more risk, as evidenced by accidents involving FSD.
+
+
+
+These are some of the core differences between Waymo and Tesla's approach to self-driving. Both companies are pushing the boundaries of technology, but their philosophies and strategies are quite distinct. It will be fascinating to see how these approaches evolve in the years to come.
+
+
+
+
+. . . . .
+
+
+. . . . .
+
+TLDR;
+
+
+for me personally, the event was disappointing. Elon announced (NOT ACTUALLY LAUNCHED) basically what he has been promising for years (TRUE AUTONOMY AKA FSD).
+
+It was no different than the previous announcements of FSD and Cybertruk.
+
+I expect delays (regulatory approvals and the actual tech being ready)
+
+
+. . . . .
+
+
+
+. . . . . 
+
+
+UPDATE :
+
+. . . . . 
+
+For all the regards who don't understand what WAYMO actually is, I just did another post analyzing Google (the owner of Waymo) and why they're the number 1 player in AI. 
+
+https://www.reddit.com/r/wallstreetbets/s/LirixJK6s6","tesla cybercab vs waymo  an analysis  for all the regards who dont know waymo is the market leader in true autonomous vehicles right now they have been operating a fleet of robo taxis fully autonomous cars in multiple cities for a while now 
+
+so i did a short comparison and analysis 
+
+
+
+key points from we robot event
+
+
+
+ the robotaxi is a purposebuilt autonomous vehicle lacking a steering wheel or pedals meaning it will need approval from regulators before going into production
+
+
+
+
+ tesla plans to launch fully autonomous driving in texas and california next year with the cybercab production by   although he said it could be as late as  
+
+
+
+
+ tesla is developing the optimus robot which could be available for  and is capable of performing various tasks
+
+
+
+
+
+ cybercab was revealed the prototype robotaxi at teslas we robot event held at the warner bros film lot in burbank california with a lot of nonpublic roads for the demonstration 
+
+
+
+
+
+ tesla has reportedly been mapping the area in advance of the demonstration even though the company says it doesnt rely on highdefinition maps to power its full selfdriving fsd driverassist feature
+
+
+
+
+
+
+
+tesla vs waymo  key differences in technology and approach 
+
+
+
+
+
+
+ sensing the world
+
+    waymos multisensor fusion  waymo uses a suite of sensors that work together this is like having multiple senses
+
+
+i lidar  acts like superprecise radar creating a d point cloud of the surroundings this excels in lowlight and complex environments
+
+ii radar detects objects and their speed even in rain or fog
+   
+
+iii cameras provide visual information for recognizing objects like traffic lights and pedestrians
+
+
+
+
+  teslas visiononly system tesla relies heavily on cameras believing that they can provide enough data for ai to understand the world like humans do
+
+
+i neural networks  tesla uses powerful ai to process the visual data from cameras
+
+
+ii no lidar  tesla famously excludes lidar arguing its expensive and unnecessary
+
+
+ why this matters  lidar provides highly accurate depth and distance data which is crucial for navigating complex situations teslas visiononly approach is more ambitious but may struggle in conditions where cameras are less effective eg heavy rain fog
+
+
+
+
+
+
+
+ understanding the environment
+
+i waymos hd maps waymo creates incredibly detailed d maps of the areas where its vehicles operate these maps include road geometry lane markings traffic signs and even the positions of trees and buildings
+
+
+ii  localization this allows waymos cars to precisely locate themselves within the map even in challenging conditions
+
+
+iii predictability  maps help anticipate whats coming and plan routes accordingly
+
+
+iv  teslas realtime learning tesla relies less on premapped environments its ai learns to interpret the world in realtime based on the data it gathers from its cameras
+
+
+v generalization the goal is to create a system that can drive anywhere not just in premapped areas
+
+
+vi adaptability teslas system can potentially adapt to new environments and situations more quickly
+
+
+
+  why this matters waymos hd maps provide a high level of certainty in known areas but mapping is expensive and timeconsuming teslas approach is more scalable but relies heavily on the ais ability to correctly interpret complex scenes
+
+
+
+
+
+
+
+ deployment strategies
+
+i waymos gradual rollout waymo has focused on deploying its robotaxi service in specific cities starting with phoenix this allows for careful testing and refinement in controlled environments
+
+
+ii  safety first  waymo prioritizes safety and has a strong track record
+
+iii  controlled expansion  they expand their service area gradually as they gain confidence in their technology
+
+
+
+ iv  teslas beta testing tesla has released its full selfdriving fsd beta software to a wider group of drivers this allows them to gather vast amounts of realworld driving data
+
+
+v  rapid iteration  tesla can quickly improve its system through frequent software updates
+
+
+ vi driver responsibility  fsd is still a driverassist system and drivers are expected to remain vigilant and take over when necessary
+
+
+   why this matters waymos approach is more cautious prioritizing safety and controlled testing teslas approach is faster and more agile but it also carries more risk as evidenced by accidents involving fsd
+
+
+
+these are some of the core differences between waymo and teslas approach to selfdriving both companies are pushing the boundaries of technology but their philosophies and strategies are quite distinct it will be fascinating to see how these approaches evolve in the years to come
+
+
+
+
+    
+
+
+    
+
+tldr
+
+
+for me personally the event was disappointing elon announced not actually launched basically what he has been promising for years true autonomy aka fsd
+
+it was no different than the previous announcements of fsd and cybertruk
+
+i expect delays regulatory approvals and the actual tech being ready
+
+
+    
+
+
+
+     
+
+
+update 
+
+     
+
+for all the regards who dont understand what waymo actually is i just did another post analyzing google the owner of waymo and why theyre the number  player in ai 
+
+"
+19,10,1728654174.0,Tesla Puts overnight ,tesla puts overnight 
+15,6,1728655136.0,Tesla short results  The shit show paid out as expected ,tesla short results  the shit show paid out as expected 
+39,20,1728635209.0,the first option trade continues to be a winner who ,the first option trade continues to be a winner who 
+91,174,1728618846.0,"Tesla Cybercab: Below $30,000 Cost and 2026 Production ",tesla cybercab below  cost and  production 
+793,401,1728572350.0,"Musk to unveil Robotaxi tonight Tesla’s first product event since the unveiling of the Cybertruck in 2019.
+
+Time for massive puts?
+
+
+https://www.theverge.com/2024/10/9/24265781/tesla-robotaxi-elon-musk-claims-safety-driverless-level-5","musk to unveil robotaxi tonight teslas first product event since the unveiling of the cybertruck in 
+
+time for massive puts
+
+
+"
+841,105,1728569011.0,"‘We Underestimated’ Nvidia, Says $50 Billion Manager Impax ",we underestimated nvidia says  billion manager impax 
+52,85,1728620292.0,Tesla Cybercab ,tesla cybercab 
+10,8,1728650026.0,"US Producer Inflation To Slow Slightly Factory gate prices in the US are expected to have risen 0.1% mom in September slightly lower than the previous month's 0.2% uptick. On an annual basis, producer price inflation is anticipated to ease to 1.6%, a seven-month low. The core PPI is projected to rise 0.2% on the month, below 0.3% in August. However, the annual core rate is likely to accelerate to 2.7% from 2.4%.",us producer inflation to slow slightly factory gate prices in the us are expected to have risen  mom in september slightly lower than the previous months  uptick on an annual basis producer price inflation is anticipated to ease to  a sevenmonth low the core ppi is projected to rise  on the month below  in august however the annual core rate is likely to accelerate to  from 
+44,20,1728624434.0,"THE PEAK SQUEAK: A little known, leading market indicator Let me preface this by saying I live in a HCOL area in a major city. These observations are indicative of what I believe to be generally high earners that live in a wealthy suburb with median home prices >$1MM
+
+I was in the drive thru behind a 2024 Escalade and had to repeat my order 3 times because this motherfucker’s brakes were sending shockwaves all the way to the fryer. She couldn’t have been going more than 3 mph and the squeak emitting from her vehicle was severely disrupting my order.
+
+Now this can only mean one thing:
+
+Suburban mom’s are cucking themselves out of new brake pads because the damn grocery bill is too high. Thus, their husband won’t be able to afford their new boyfriend’s rent. This is a serious issue that could lead to the total collapse of the middle class in America.
+
+I need you to observe how much squeak you hear on the roadways this weekend. I fear we’re reaching peak squeak. Brake pads are the perfect middle ground between disposable income and necessity purchases and when they go we know what’s next.
+
+Fear the squeak. 25 SPY 570p 10/31","the peak squeak a little known leading market indicator let me preface this by saying i live in a hcol area in a major city these observations are indicative of what i believe to be generally high earners that live in a wealthy suburb with median home prices mm
+
+i was in the drive thru behind a  escalade and had to repeat my order  times because this motherfuckers brakes were sending shockwaves all the way to the fryer she couldnt have been going more than  mph and the squeak emitting from her vehicle was severely disrupting my order
+
+now this can only mean one thing
+
+suburban moms are cucking themselves out of new brake pads because the damn grocery bill is too high thus their husband wont be able to afford their new boyfriends rent this is a serious issue that could lead to the total collapse of the middle class in america
+
+i need you to observe how much squeak you hear on the roadways this weekend i fear were reaching peak squeak brake pads are the perfect middle ground between disposable income and necessity purchases and when they go we know whats next
+
+fear the squeak  spy p "
+517,384,1728572507.0,"If Google breaks up into multiple companies is that a good thing? The DOJ is seriously considering breaking up Google as a potential option.
+
+If that happens, for existing shareholders, is that a good thing in the long run?
+
+YouTube alone is a multibillion dollar company.","if google breaks up into multiple companies is that a good thing the doj is seriously considering breaking up google as a potential option
+
+if that happens for existing shareholders is that a good thing in the long run
+
+youtube alone is a multibillion dollar company"
+58,29,1728613286.0,"Window closing for Pepsi to buy Celsius (CELH) Time is running out for Pepsi to buy Celsius (CELH) 
+
+The bottom is in on Celsius.  The news has been positive and today’s move up broke a pretty long downward trend.  They are down 70% off their ATH.  Everyone also saw Pepsi’s recent earnings results which were not terrible but not great either.  
+
+Pepsi owns Rockstar which tastes like carbonated piss with 8 drops of black licorice and 2 drops of patchouli essential oil.  Monster is owned by Coke and drank by hillbillies at monster truck rallies with un-neutered dogs.  Red Bull is for our exact opposites who work at Goldman Sachs until 1 in the morning everyday because Cramer says thats what they should be doing.
+
+Celsius actually tastes delicious and doesn’t give you the shakes.  It is in every convenience store and grocery store, Walmart and Amazon, and the best store of all….Costco.  They are very popular with the younger generation which is what you want to build on.  Most importantly, they have a ton of international expansion still to do.  
+
+Pepsi already owns 8.5% of Celsius.  It is unlikely it will ever be this cheap again.  It’s the Black Friday sale for Celsius….Hopefully Pepsi steps up to drink a six pack of Kiwi-Strawberry and make an offer they can’t refuse.
+
+Positions:  3k shares and $35 C 10/11/24","window closing for pepsi to buy celsius celh time is running out for pepsi to buy celsius celh 
+
+the bottom is in on celsius  the news has been positive and todays move up broke a pretty long downward trend  they are down  off their ath  everyone also saw pepsis recent earnings results which were not terrible but not great either  
+
+pepsi owns rockstar which tastes like carbonated piss with  drops of black licorice and  drops of patchouli essential oil  monster is owned by coke and drank by hillbillies at monster truck rallies with unneutered dogs  red bull is for our exact opposites who work at goldman sachs until  in the morning everyday because cramer says thats what they should be doing
+
+celsius actually tastes delicious and doesnt give you the shakes  it is in every convenience store and grocery store walmart and amazon and the best store of allcostco  they are very popular with the younger generation which is what you want to build on  most importantly they have a ton of international expansion still to do  
+
+pepsi already owns  of celsius  it is unlikely it will ever be this cheap again  its the black friday sale for celsiushopefully pepsi steps up to drink a six pack of kiwistrawberry and make an offer they cant refuse
+
+positions  k shares and  c "
+110,9,1728601268.0,I’ll keep drinking Celsius…. forever ! Gains not as big as others on here…. But I’ll take it! I can finally afford some McDonald’s ,ill keep drinking celsius forever  gains not as big as others on here but ill take it i can finally afford some mcdonalds 
+165,7296,1728590230.0,"What Are Your Moves Tomorrow, October 11, 2024 [View Post](https://sh.reddit.com/r/wallstreetbets/comments/1g0rmwo)",what are your moves tomorrow october   view post
+574,437,1728563781.0,"US Core Inflation Unexpectedly Rises The annual core consumer price inflation rate in the United States, which excludes items such as food and energy, edged higher to 3.3% in September of 2024 from the three-year low of 3.2% recorded in the two previous months, and ahead of market expectations that it would stay at 3.2%.",us core inflation unexpectedly rises the annual core consumer price inflation rate in the united states which excludes items such as food and energy edged higher to  in september of  from the threeyear low of  recorded in the two previous months and ahead of market expectations that it would stay at 
+17,23,1728630329.0,"$2 H100s: How the GPU Bubble Burst *Do we yet have an answer to [the $600bn question](https://www.latent.space/p/mar-jun-2024)? It is now consensus that the capex on foundation model training is the “[fastest depreciating asset in history](https://x.com/GavinSBaker/status/1720819375517716610)”, but the jury on GPU infra spend is still out and [the GPU Rich Wars are raging](https://www.latent.space/i/140396949/mixtral-sparks-a-gpuinference-race-to-the-bottom). Meanwhile, we know now that frontier labs are spending more on training+inference than they make in revenue, [raising $6.6b in the largest venture round of all time](https://www.bloomberg.com/news/articles/2024-10-02/openai-has-closed-new-funding-round-raising-over-6-5-billion) while also [projecting losses of $14b in 2026](https://www.theinformation.com/articles/openai-projections-imply-losses-tripling-to-14-billion-in-2026?rc=ytp67n). The financial logic requires AGI to parse.*
+
+Last year, H100s were $8/hr if you could get them. Today, there's 7 different resale markets selling them under $2. What happened?
+
+
+[full article here](https://www.latent.space/p/gpu-bubble)"," hs how the gpu bubble burst do we yet have an answer to the bn question it is now consensus that the capex on foundation model training is the fastest depreciating asset in history but the jury on gpu infra spend is still out and the gpu rich wars are raging meanwhile we know now that frontier labs are spending more on traininginference than they make in revenue raising b in the largest venture round of all time while also projecting losses of b in  the financial logic requires agi to parse
+
+last year hs were hr if you could get them today theres  different resale markets selling them under  what happened
+
+
+full article here"
+5,6,1728653629.0,"Overstock.com (BYON) - DD - Bath Towels Are Back In Stock \*\*ATTENTION MODS AND HONOURABLE REPORT POLICE OF NEW: This DD and the company it covers is in no way related to the bankrupt legacy towel stock (RIP bagholders). This company was [Overstock.com](http://Overstock.com) and has rebranded itself. Bath towels are back, and they're better than ever before.
+
+Alright, listen up, you’re only going to hear this once, and you’re only going to hear it from me, as no one else seems to be paying attention. I’ve been watching this company for YEARS waiting for the perfect moment to get in, and that moment is right now. Actually, it was last week on the day the last vestiges of peace Jared Kushner bestowed upon the Middle East finally evaporated. While simultaneously, the dock workers decided they were going to try to strongarm JPow into spinning up his money printer exclusively for their use --to fund their righteous battle against our future robot overlords. That day the stock hit a low of $8.91. The bottom is in.
+
+About the Company:
+
+[Overstock.com](http://Overstock.com) has been around a very long time, since 1999, but basically all you need to know about that is that they started out doing the thing their name suggests. Then they switched it up and started selling a more standard lineup of home goods. Their name just didn't reflect what they did anymore.
+
+In 2023, the former crowd favorite’s bath towel retailer went tits up, and the CEO of Overstock at the time saw a golden opportunity. They snapped up the IP of ye old towel stock, along with the name, customer data, etc.. They rebranded the company to Beyond Inc., switched their website UI’s color scheme from red to blue, and slapped the old towel company’s name on it. (From here on I’ll refer to the forbidden name as triple-B, or 3B for short.)
+
+But somehow it wasn't an instant success... Overstock's original customers were left out in the cold, and the returning bath towel customers didn't like their product lineup. Things kept on declining.
+
+Enter Marcus Lemonis:
+
+
+
+https://preview.redd.it/yi3ayo0yw4ud1.png?width=508&format=png&auto=webp&s=6a79453f4375c3d023bbe6b615fea95091281919
+
+He currently serves as the chairman and CEO of Camping World, a multi-billion dollar giant. He’s an activist investor specializing in turning around struggling businesses, and was key in building Camping World into what it is today. In Late 2023 he purchased a stake in Beyond and joined the board. He laid out plans to turn the business around, bring back [Overstock.com](http://Overstock.com), and promised results by the end of 2024. Well...things took longer than expected, including the relaunch of the [Overstock.com](http://Overstock.com) website.
+
+So this is what happened:
+
+  
+
+
+https://preview.redd.it/k29wwhq1x4ud1.png?width=1407&format=png&auto=webp&s=c6f07b394c5fae9a6100f0485d99947b5ca5fa0f
+
+Now the stock is in the gutter, but the vision Lemonis has for the company is finally starting to come together.
+
+If you only care about earnings reports and staring at charts you might look at those and say to me:
+
+“Mr. Jimbles, you’re *highly* regarded. The revenue, EPS, and every other metric is worse YoY. The stock has been red every month for the past 6. This stock is going back to all-time lows, and likely, to zero.”
+
+And to which I will respond:
+
+“Why yes, thank you. I am highly regarded. You have an incredible talent for numbers and analysis. Slap an F rating on the stock, and go apply for a job at Motley Fool. They’d love to have you. You’ll fit right in there.”
+
+But this what has happened very recently:
+
+* In July 2024 the [Overstock.com](http://Overstock.com) website relaunched to exist alongside the new 3B website, specializing again in liquidating surplus inventory. 
+* The Zulily IP, customer data, etc. was purchased in March of this year. If you haven’t heard of Zulily, they were another successful online retailer that went under after suffering from poor management, losing focus, and poor customer service, but the website had a cult following for its unique and exclusive selection of fashion goods.
+* Beyond Inc. hired some of Zulily’s former team, and are bringing back your mom’s favorite fashion brands. They just soft-launched the new website a few weeks ago, but haven’t made any official announcement yet. [Zulily.com](http://zulily.com)
+* Three new strategic partnerships have been teased that will restore a physical retail presence to the 3B brand. Now you might be thinking to yourself that this is a bad move, but having a physical store makes a lot of sense for home goods. Last I checked, you can’t download a credenza, and some people like to make sure the drapes match the carpet in person. One of these partnerships will deal with the Overstock arm of the business and will give them access to increased inventory and infrastructure to move what they already have.
+* They just announced a new global licensing program to expand business internationally.
+* They sold off their company HQ offices for $55m. Their balance sheet is good. Almost zero debt and plenty of cash for their upcoming moves.
+
+But that isn’t it by a long-shot. Lemonis has a vision for the Beyond umbrella to expand and include a whole slew of home related products and services including mortgages, home insurance, HELOCs, consumer credit cards, etc.. They plan to leverage the customer data gained from the retail businesses to onboard their existing customers for these other products in a frictionless, low cost way.
+
+And even though this pivot is finally taking shape now, none of it has been priced in. It may have been last fall based solely on hype when Lemonis joined the board, when the stock hit almost $40, but it definitely isn’t as of right now. Lucky me.
+
+Maybe some other charts and light TA will convince you though.
+
+
+
+https://preview.redd.it/e14afd63x4ud1.png?width=1440&format=png&auto=webp&s=2a10afa53ba0956584ce72106fd4fae5a8fdb9b3
+
+What we have right here is RSI divergence on the weekly chart. The stock price is marching down, making lower lows, while RSI is trending up, making higher lows. Titillating, I know.
+
+You like Bollinger Bands??? Well here you go:
+
+  
+
+
+https://preview.redd.it/rrf6twx4x4ud1.png?width=1440&format=png&auto=webp&s=3919615e3efb1dfb2c607e2ceda81efa27f7b49c
+
+On the daily, it’s consolidated, and the bands are tight enough to turn your wife’s boyfriend into a two pump chump. You can see it bounced hard off the bottom band in the past few days.
+
+Look at what happened last Friday when the dock workers settled for an insulting 62% raise and a guarantee that efficiency would not get in the way of union boss salaries:
+
+  
+
+
+https://preview.redd.it/4kzlw1r5x4ud1.png?width=1445&format=png&auto=webp&s=14f6bbd1ebff4210af79e2eef6995167c886a1f5
+
+So what makes me sooooo smart and special? Nothing. I just happen to be in the right place at the right time. Like I said, I’ve been watching this stock/company for years as a matter of personal interest. This is the inflection point. No one cares about this stock and most people still think the 3B brand no longer exists at all. Analysts are asleep at the wheel, relying on ChatGPT to do their work for them, and GPT doesn’t know how to spoof an email and listen to a webcast yet.
+
+Here’s the webcast featuring Lemonis that took place on Sept. 10:
+
+[https://investors.beyond.com/news-events/events-and-presentations/events/event-details/2024/Piper-Sandler-Growth-Frontiers-Conference/default.aspx](https://investors.beyond.com/news-events/events-and-presentations/events/event-details/2024/Piper-Sandler-Growth-Frontiers-Conference/default.aspx) 
+
+Listen to it…or don’t. I don’t care. Lemonis goes into much more detail about the upcoming partnerships that will be announced at the investor conference happening on the day of earnings, as well as his vision for the company going forward. And he explains it all much better than some random regard on reddit ever could. He also takes ownership for the past mistakes that got us to where we are now.
+
+If you still aren’t convinced, cool. Go buy calls into NVIDIA earnings and enjoy crying in your wife’s boyfriend’s arms for a few days just like last time. Or buy the top on that incredible space stock after it’s up 20x in less than 6 months, get rug-pulled with a $400m share offering, and get rekt by the news drought. Or go do what Nana would want --buying deep ITMs in her meme stock... at least *she* might be proud of you.
+
+So what do I expect with the BYON stock?
+
+Short/medium term: Up.  
+Long term: Really up.
+
+It looks good long term as everything spins up and the company transitions over the course of the next year. I don’t think analysts have accounted for the $177m run rate the newly relaunched Overstock website has hit since it went live at the beginning of Q3, or the fact that Zulily has been online for weeks already. Earnings will likely hit or exceed expectations, and even if it doesn’t, the partnerships being unveiled at the investor meeting and forward guidance will be impressive. There will likely be a runup even before earnings. When this stock moves, it MOVES.
+
+Here are my current positions as of writing this, but I'm not done buying yet...not even close. A YOLO update will follow after I've finished.
+
+Positions:
+
+https://preview.redd.it/ikdcrnv7x4ud1.png?width=1097&format=png&auto=webp&s=cc49f739ee9e7bf277bac88bd08ed12d3e52abcb
+
+Shotgun approach. Who knows when this thing will make its biggest moves.
+
+The random smattering of strikes may make you think I'm even more regarded than before, but liquidity is extremely thin and there were hot deals on different strikes at different times.
+
+\*\*Tips if you feel this is a play you want to make and realize that if you just buy shares you're throwing your future gains in the trash:
+
+Liquidity on most option strikes/expiries is THIN, especially on the OTMs. Wait. wait. *wait.* You're thinking you'll just avoid all this by buying ITM/NTM? On a stock this undervalued?? Go back to where you belong. You know...that special sub where their best and only advice is DCA'ing into SPY.
+
+I recommend doing limits or 1 lot market orders b/c you might even get a few better fills that way. If you do big market orders you’re gonna get cucked on the way in and on the way out… if you make it that far. If you don’t know what the word slippage means...good luck. \*\*Hint\*\* It doesn't have anything to do with what happens to your wife while watching you unbutton her boyfriend's sport-coat.
+
+See y'all in a bit.
+
+-Jimbles
+
+\*\*Disclaimer: All information contained in this post is factually correct to the best of my knowledge. However, I provide no guarantees, and will not be held liable for any errors that may be contained within. Check the facts and do your own research. None of this content is financial advice.","overstockcom byon  dd  bath towels are back in stock attention mods and honourable report police of new this dd and the company it covers is in no way related to the bankrupt legacy towel stock rip bagholders this company was overstockcom and has rebranded itself bath towels are back and theyre better than ever before
+
+alright listen up youre only going to hear this once and youre only going to hear it from me as no one else seems to be paying attention ive been watching this company for years waiting for the perfect moment to get in and that moment is right now actually it was last week on the day the last vestiges of peace jared kushner bestowed upon the middle east finally evaporated while simultaneously the dock workers decided they were going to try to strongarm jpow into spinning up his money printer exclusively for their use to fund their righteous battle against our future robot overlords that day the stock hit a low of  the bottom is in
+
+about the company
+
+overstockcom has been around a very long time since  but basically all you need to know about that is that they started out doing the thing their name suggests then they switched it up and started selling a more standard lineup of home goods their name just didnt reflect what they did anymore
+
+in  the former crowd favorites bath towel retailer went tits up and the ceo of overstock at the time saw a golden opportunity they snapped up the ip of ye old towel stock along with the name customer data etc they rebranded the company to beyond inc switched their website uis color scheme from red to blue and slapped the old towel companys name on it from here on ill refer to the forbidden name as tripleb or b for short
+
+but somehow it wasnt an instant success overstocks original customers were left out in the cold and the returning bath towel customers didnt like their product lineup things kept on declining
+
+enter marcus lemonis
+
+
+
+
+
+he currently serves as the chairman and ceo of camping world a multibillion dollar giant hes an activist investor specializing in turning around struggling businesses and was key in building camping world into what it is today in late  he purchased a stake in beyond and joined the board he laid out plans to turn the business around bring back overstockcom and promised results by the end of  wellthings took longer than expected including the relaunch of the overstockcom website
+
+so this is what happened
+
+  
+
+
+
+
+now the stock is in the gutter but the vision lemonis has for the company is finally starting to come together
+
+if you only care about earnings reports and staring at charts you might look at those and say to me
+
+mr jimbles youre highly regarded the revenue eps and every other metric is worse yoy the stock has been red every month for the past  this stock is going back to alltime lows and likely to zero
+
+and to which i will respond
+
+why yes thank you i am highly regarded you have an incredible talent for numbers and analysis slap an f rating on the stock and go apply for a job at motley fool theyd love to have you youll fit right in there
+
+but this what has happened very recently
+
+ in july  the overstockcom website relaunched to exist alongside the new b website specializing again in liquidating surplus inventory 
+ the zulily ip customer data etc was purchased in march of this year if you havent heard of zulily they were another successful online retailer that went under after suffering from poor management losing focus and poor customer service but the website had a cult following for its unique and exclusive selection of fashion goods
+ beyond inc hired some of zulilys former team and are bringing back your moms favorite fashion brands they just softlaunched the new website a few weeks ago but havent made any official announcement yet zulilycom
+ three new strategic partnerships have been teased that will restore a physical retail presence to the b brand now you might be thinking to yourself that this is a bad move but having a physical store makes a lot of sense for home goods last i checked you cant download a credenza and some people like to make sure the drapes match the carpet in person one of these partnerships will deal with the overstock arm of the business and will give them access to increased inventory and infrastructure to move what they already have
+ they just announced a new global licensing program to expand business internationally
+ they sold off their company hq offices for m their balance sheet is good almost zero debt and plenty of cash for their upcoming moves
+
+but that isnt it by a longshot lemonis has a vision for the beyond umbrella to expand and include a whole slew of home related products and services including mortgages home insurance helocs consumer credit cards etc they plan to leverage the customer data gained from the retail businesses to onboard their existing customers for these other products in a frictionless low cost way
+
+and even though this pivot is finally taking shape now none of it has been priced in it may have been last fall based solely on hype when lemonis joined the board when the stock hit almost  but it definitely isnt as of right now lucky me
+
+maybe some other charts and light ta will convince you though
+
+
+
+
+
+what we have right here is rsi divergence on the weekly chart the stock price is marching down making lower lows while rsi is trending up making higher lows titillating i know
+
+you like bollinger bands well here you go
+
+  
+
+
+
+
+on the daily its consolidated and the bands are tight enough to turn your wifes boyfriend into a two pump chump you can see it bounced hard off the bottom band in the past few days
+
+look at what happened last friday when the dock workers settled for an insulting  raise and a guarantee that efficiency would not get in the way of union boss salaries
+
+  
+
+
+
+
+so what makes me sooooo smart and special nothing i just happen to be in the right place at the right time like i said ive been watching this stockcompany for years as a matter of personal interest this is the inflection point no one cares about this stock and most people still think the b brand no longer exists at all analysts are asleep at the wheel relying on chatgpt to do their work for them and gpt doesnt know how to spoof an email and listen to a webcast yet
+
+heres the webcast featuring lemonis that took place on sept 
+
+ 
+
+listen to itor dont i dont care lemonis goes into much more detail about the upcoming partnerships that will be announced at the investor conference happening on the day of earnings as well as his vision for the company going forward and he explains it all much better than some random regard on reddit ever could he also takes ownership for the past mistakes that got us to where we are now
+
+if you still arent convinced cool go buy calls into nvidia earnings and enjoy crying in your wifes boyfriends arms for a few days just like last time or buy the top on that incredible space stock after its up x in less than  months get rugpulled with a m share offering and get rekt by the news drought or go do what nana would want buying deep itms in her meme stock at least she might be proud of you
+
+so what do i expect with the byon stock
+
+shortmedium term up  
+long term really up
+
+it looks good long term as everything spins up and the company transitions over the course of the next year i dont think analysts have accounted for the m run rate the newly relaunched overstock website has hit since it went live at the beginning of q or the fact that zulily has been online for weeks already earnings will likely hit or exceed expectations and even if it doesnt the partnerships being unveiled at the investor meeting and forward guidance will be impressive there will likely be a runup even before earnings when this stock moves it moves
+
+here are my current positions as of writing this but im not done buying yetnot even close a yolo update will follow after ive finished
+
+positions
+
+
+
+shotgun approach who knows when this thing will make its biggest moves
+
+the random smattering of strikes may make you think im even more regarded than before but liquidity is extremely thin and there were hot deals on different strikes at different times
+
+tips if you feel this is a play you want to make and realize that if you just buy shares youre throwing your future gains in the trash
+
+liquidity on most option strikesexpiries is thin especially on the otms wait wait wait youre thinking youll just avoid all this by buying itmntm on a stock this undervalued go back to where you belong you knowthat special sub where their best and only advice is dcaing into spy
+
+i recommend doing limits or  lot market orders bc you might even get a few better fills that way if you do big market orders youre gonna get cucked on the way in and on the way out if you make it that far if you dont know what the word slippage meansgood luck hint it doesnt have anything to do with what happens to your wife while watching you unbutton her boyfriends sportcoat
+
+see yall in a bit
+
+jimbles
+
+disclaimer all information contained in this post is factually correct to the best of my knowledge however i provide no guarantees and will not be held liable for any errors that may be contained within check the facts and do your own research none of this content is financial advice"
+307,60,1728571564.0,"Discovered options about 3 months ago How am I doing? 
+","discovered options about  months ago how am i doing 
+"
+4,2,1728655194.0,Ketamine gains ,ketamine gains 
+54,9,1728602234.0,"$SQ $22,000 Gain! ",sq  gain 
+41,38,1728598994.0,In only five months. It was fun while it lasted ,in only five months it was fun while it lasted 
+24,9,1728608453.0,"Netflix gains almost 100% All in ROTH IRA
+ 
+
+Total contribution since 2019 : $37,500","netflix gains almost  all in roth ira
+ 
+
+total contribution since   "
+14,13,1728620598.0,"Spirit Airlines - A look into the future  As many of you all know by now, Spirit Airlines has had a rough couple of years. They have not been profitable since before COVID and their failed merger with JetBlue has caused their stock to plummet by 95% in the past years. Recently, the WSJ has reported that Spirit Airlines has filed for Chapter 11 bankruptcy which should not be confused for a Chapter 7 bankruptcy. A Chapter 7 bankruptcy involves the immediate selling of assets to pay back creditors while Chapter 11 is less severe and involves a reorganizational plan to pay back their debt. This distinction is very important because it does not mean that Spirit Airlines is for sure a dead company....yet?...maybe?
+
+Creditors
+
+* Spirit Airlines faces a deadline from its creditors to refinance or extend those notes by 10/21
+   * If Spirit is able to refinance their debt, I would safely say that their stock price would increase
+   * In addition, if Spirit was able to refinance their debt, this could allow Spirit to tap into the capital market and help them raise more money for a potential turnaround in the future
+* Creditors may be inclined to extend their notes because they also have a lot to loose and the Justice Department claiming that Spirit is essential for travelers could build more confidence in the company
+
+Earnings
+
+* Earnings are expected to drop on 10/24 and the estimate is -$2.32...
+   * This honestly is not surprising and I can see it going even lower then estimated but I also think it will not affect the price of the stock much
+* If Spirit was to beat earnings, it could possibly prove that this company is still alive and has a potential for a turnaround
+
+I felt like updating you guys about Spirit and their potential for a come back but who knows, I am just a Wendy's employee 
+
+Positions: 9 $10 6/20/25 C ( Not too much as this is still a very risky play but stranger things have happened)
+
+ ","spirit airlines  a look into the future  as many of you all know by now spirit airlines has had a rough couple of years they have not been profitable since before covid and their failed merger with jetblue has caused their stock to plummet by  in the past years recently the wsj has reported that spirit airlines has filed for chapter  bankruptcy which should not be confused for a chapter  bankruptcy a chapter  bankruptcy involves the immediate selling of assets to pay back creditors while chapter  is less severe and involves a reorganizational plan to pay back their debt this distinction is very important because it does not mean that spirit airlines is for sure a dead companyyetmaybe
+
+creditors
+
+ spirit airlines faces a deadline from its creditors to refinance or extend those notes by 
+    if spirit is able to refinance their debt i would safely say that their stock price would increase
+    in addition if spirit was able to refinance their debt this could allow spirit to tap into the capital market and help them raise more money for a potential turnaround in the future
+ creditors may be inclined to extend their notes because they also have a lot to loose and the justice department claiming that spirit is essential for travelers could build more confidence in the company
+
+earnings
+
+ earnings are expected to drop on  and the estimate is 
+    this honestly is not surprising and i can see it going even lower then estimated but i also think it will not affect the price of the stock much
+ if spirit was to beat earnings it could possibly prove that this company is still alive and has a potential for a turnaround
+
+i felt like updating you guys about spirit and their potential for a come back but who knows i am just a wendys employee 
+
+positions    c  not too much as this is still a very risky play but stranger things have happened
+
+ "
+5365,593,1728503087.0,Hurricane Milton could cost Disney World $200 million ,hurricane milton could cost disney world  million 
+259,35,1728559753.0,"I ain’t hear no bell  Options ruined some cash positions…resolved to make it back, otherwise I’ll be applying to Wendy’s. Heard their krabby patty sucked so we’ll see tho. ",i aint hear no bell  options ruined some cash positionsresolved to make it back otherwise ill be applying to wendys heard their krabby patty sucked so well see tho 
+17,5,1728611656.0,"Buffett Cuts Stake in BofA to below 10% https://finance.yahoo.com/news/buffetts-berkshire-cuts-stake-bofa-232457020.html
+
+Warren Buffett’s Berkshire Hathaway has sold $10.5bn worth of Bank of America shares in a selling spree that began in July, as the sprawling industrial conglomerate dumps an investment that dates to the global financial crisis. 
+
+The company disclosed on Thursday that it had sold a further 13.6mn shares this week worth $546mn, taking Berkshire’s stake in the bank below 10 per cent.
+
+That threshold is critical and means Berkshire will no longer have to report its dispositions of Bank of America stock within days of the transactions. Berkshire’s remaining stake is worth roughly $31bn.
+","buffett cuts stake in bofa to below  
+
+warren buffetts berkshire hathaway has sold bn worth of bank of america shares in a selling spree that began in july as the sprawling industrial conglomerate dumps an investment that dates to the global financial crisis 
+
+the company disclosed on thursday that it had sold a further mn shares this week worth mn taking berkshires stake in the bank below  per cent
+
+that threshold is critical and means berkshire will no longer have to report its dispositions of bank of america stock within days of the transactions berkshires remaining stake is worth roughly bn
+"
+64,33,1728584248.0,Not cutloss until the end! ,not cutloss until the end 
+39,1,1728592504.0,7.2k Gainz on Coinbase Put booiiiii Fomo says I sold early but need to get back to focusing on big boy job now…until next time,k gainz on coinbase put booiiiii fomo says i sold early but need to get back to focusing on big boy job nowuntil next time
+17,19,1728607897.0,NEVER BACK DOWN NEVER WHAT!? You guys arent prepared to witness the greatest comeback of history,never back down never what you guys arent prepared to witness the greatest comeback of history
+8,3,1728622200.0,Pltr gains  ,pltr gains  
+3,6,1728645679.0,Today's Economic Calendar - Oct 11. ,todays economic calendar  oct  
+53,7,1728578827.0,A true yolo +70% in a few hours. ,a true yolo  in a few hours 
+1213,81,1728518131.0,Apple sells privacy to consumers. But it’s quietly helping police use iPhones for surveillance. ,apple sells privacy to consumers but its quietly helping police use iphones for surveillance 
+2132,345,1728507529.0,"Bought 20 0DTE $575 SPY calls this morning, this gain is from only $880 invested. This got me thinking about the potential strategy of just buying 0DTE SPY calls every morning. If just today's movement of about 0.5% got a 400% return, aren't you statistically likely to make money, since whether SPY goes up or down is basically 50/50? Why wouldn't this work? Obviously you'd only bet like 10% of your account each day so you can make it back if you're wrong. ",bought  dte  spy calls this morning this gain is from only  invested this got me thinking about the potential strategy of just buying dte spy calls every morning if just todays movement of about  got a  return arent you statistically likely to make money since whether spy goes up or down is basically  why wouldnt this work obviously youd only bet like  of your account each day so you can make it back if youre wrong 
+1,1,1728656225.0,Solid week I would say  Started sticking to my rules and waiting for breakouts and continuation now I’m see big Green Day’s lets keep it going 🕺,solid week i would say  started sticking to my rules and waiting for breakouts and continuation now im see big green days lets keep it going 
+2,3,1728655664.0,"GOOGLE - The Actual Pioneer and Leader In AI This is a follow up  post to my analysis of TESLA VS WAYMO. 
+
+
+Right now OpenAI is the clear leader when it comes to developing AI. Everyone else is playing catch up, however there's one company that doesn't get enough credit - GOOGLE. 
+
+
+Google is the one that actually did most of the groundbreaking work in AI. They're the pioneers of technology in the field of AI. 
+
+
+You must be thinking Why didn't we hear about this if they're the pioneers of AI? 
+
+
+The reason is that Google failed to be the first one to commercialise it. 
+
+Google had something called ""PROJECT MOONSHOTS.""  It was basically a division of Google solely focused on Ultra Ambitious Projects. 
+
+AI research and development was a part of it.
+
+In 2014 Google acquired DeepMind Labs that was founded in the UK in 2010.
+
+DeepMind introduced neural Turing machines (neural networks that can access external memory like a conventional Turing machine), which is basically a computer that loosely resembles short-term memory in the human brain.
+
+
+The Founding Research and Development Team of OpenAI, actually came from Google (DeepMind).
+
+
+Now going back to ""PROJECT MOONSHOTS"" - in 2010 Larry Page and Sergy Brin turned  ""Project Moonshots"" into ""X COMPANY"".
+
+Yes, it's called X, and they did it before Musk LMAO. 
+
+This is what X Company does -
+
+X's mission is to invent and launch ""moonshot"" technologies that aim to make the world a radically better place.
+
+ A moonshot is defined by X as the intersection of a big problem, a radical solution, and breakthrough technology. 
+
+Work at X is overseen by entrepreneur scientist Astro Teller, as CEO and ""Captain of Moonshots"".
+
+The lab started with the development of Google's self-driving car.
+
+
+SELF DRIVING VEHICLES are a brainchild of X Company. 
+
+They are also working on some secret projects (presumably alongside the US government).
+
+
+While Google fell behind OpenAI in commercializing and marketing of AI, they are still a leader in everything related to AI, Machine Learning and Fully Autonomous Vehicles. 
+
+
+- - - - - - -
+
+
+TLDR;
+
+GOOGLE IS EVERYTHING ELON MUSK IS CLAIMING TO BE. 
+
+
+
+Sources:
+_  _  _  _  _  _  _ 
+
+https://x.company/projects/
+
+_ _ _ _ _ _ _ _ _
+
+https://deepmind.google","google  the actual pioneer and leader in ai this is a follow up  post to my analysis of tesla vs waymo 
+
+
+right now openai is the clear leader when it comes to developing ai everyone else is playing catch up however theres one company that doesnt get enough credit  google 
+
+
+google is the one that actually did most of the groundbreaking work in ai theyre the pioneers of technology in the field of ai 
+
+
+you must be thinking why didnt we hear about this if theyre the pioneers of ai 
+
+
+the reason is that google failed to be the first one to commercialise it 
+
+google had something called project moonshots  it was basically a division of google solely focused on ultra ambitious projects 
+
+ai research and development was a part of it
+
+in  google acquired deepmind labs that was founded in the uk in 
+
+deepmind introduced neural turing machines neural networks that can access external memory like a conventional turing machine which is basically a computer that loosely resembles shortterm memory in the human brain
+
+
+the founding research and development team of openai actually came from google deepmind
+
+
+now going back to project moonshots  in  larry page and sergy brin turned  project moonshots into x company
+
+yes its called x and they did it before musk lmao 
+
+this is what x company does 
+
+xs mission is to invent and launch moonshot technologies that aim to make the world a radically better place
+
+ a moonshot is defined by x as the intersection of a big problem a radical solution and breakthrough technology 
+
+work at x is overseen by entrepreneur scientist astro teller as ceo and captain of moonshots
+
+the lab started with the development of googles selfdriving car
+
+
+self driving vehicles are a brainchild of x company 
+
+they are also working on some secret projects presumably alongside the us government
+
+
+while google fell behind openai in commercializing and marketing of ai they are still a leader in everything related to ai machine learning and fully autonomous vehicles 
+
+
+      
+
+
+tldr
+
+google is everything elon musk is claiming to be 
+
+
+
+sources
+             
+
+
+
+        
+
+"
+16,8,1728599970.0,Lost 17k Someone lost more than me today?,lost k someone lost more than me today
+48,10,1728577221.0,Holy Karp C,holy karp c
+28,10,1728589361.0,"womp womp (started early july) 
+made 10-12k and lost around 46k total for a net loss of 34k. i made some good money off mgk, nvidia, and amazon calls before the july drop screwed me. i’ll probably keep trying like the regard i am lol","womp womp started early july 
+made k and lost around k total for a net loss of k i made some good money off mgk nvidia and amazon calls before the july drop screwed me ill probably keep trying like the regard i am lol"
+141,7807,1728554232.0,"Daily Discussion Thread for October 10, 2024 [View Post](https://sh.reddit.com/r/wallstreetbets/comments/1g0f8jq)",daily discussion thread for october   view post
+1255,427,1728508296.0,"17 years ago today On September 18, 2007, the Fed made a 50bps rate cut, greater than expected, despite reasonably good economic data. Markets rallied for about 3 weeks, and SPX closed at an all-time high on October 9, 2007, which would not be matched again until March 2013 in recovery from the Great Financial Crisis.
+
+On September 18, 2024, the Fed made a 50bps rate cut, greater than expected, despite reasonably good economic data. Markets rallied for about 3 weeks, and SPX closed at an all-time high today, October 9, 2024.
+
+This is not financial advice nearly as much as it is anecdotal evidence that we live in the Matrix.
+
+Other thoughts:
+
+The Sahm rule stood at only 17bps as of the unemployment reading of September 2007, as opposed to 50bps in September 2024. Albeit, unemployment was generally higher right around 4.6-4.7% between late 2006-2007. Additionally, the part-time gig economy is MASSIVE today compared to 2007 (but BLS still counts that as not “unemployed”)
+
+The VIX was hovering between 16-18 during the October 2007 market peak, compared to 20-22 today.
+
+Year-over-year CPI change from December 2006 to December 2007 was 4.1%, so inflation was NOT dead when the Fed started their easing cycle. The bond market is implying a similar problem in today’s economy with increasing US treasury yields, although current YoY CPI readings are generally lower today than in 2007.
+
+Unlike 2007, this is an election year, and I operate under the assumption that all current BLS statistics are not just cooked, but deep fried.
+
+EDIT: Going to try to address some of the repeated comments I’m seeing here.
+
+“PAST PERFORMANCE DOESN’T GUARANTEE FUTURE RESULTS”
+
+Of course, the main point of this post was to highlight the similarities in timelines between today and 17 years ago. Our economic situation is MASSIVELY different, although I’d argue still weak.
+
+“BUT THERE’S NO SUBPRIME CRISIS”
+
+Right, probably not. However, we still have skyrocketing consumer credit defaults paired with an abysmally low personal savings rate. Additionally, we have something along the lines of $1 trillion CRE loans with balloon payments or adjustable rates kicking in within the next 6 months, on a bunch of loans that are underwater with their respective banks, and many of which have been collateralized into CLOs and sold both domestically and internationally. I still think there will be some blood in the water.
+
+Additionally, the median house price to median income ratio is HIGHER today than it was at its 2007-2008 absolute peak, so I’d still argue that real estate has been over-speculated.
+
+“THE GOVERNMENT WON’T LET THE MARKET CRASH DURING AN ELECTION YEAR”
+
+Probably not! In fact, there’s a very real scenario where the Fed steps in with hyper-QE if things hit the fan. Congress is scheduled to meet in January 2025 to negotiate the current US debt ceiling, and the US frankly can’t afford a recession right now - they need those tax dollars. Hyperinflation to erode the real value of the US debt and prop up the markets is highly plausible IMO.
+
+“DUMB BER”
+
+Dumb bol.
+
+“POSITIONS OR BAN”
+
+I’m short term bullish on bonds. TLT just bounced off its 200 SMA twice and I wouldn’t be surprised to see investors eat up those nice high yields if earnings season goes sour. I have 6 figures on TLT calls expiring post-election, I’m gonna wait on SPX plays until the election is over.
+
+**TLDR: The Fed cut rates on the exact same date (9/18) in 2007 as 2024, and SPX hit an all-time high on the exact same date (10/9) in 2007 as 2024, except it was a massive crash afterwards in 2007. Trippy.**"," years ago today on september   the fed made a bps rate cut greater than expected despite reasonably good economic data markets rallied for about  weeks and spx closed at an alltime high on october   which would not be matched again until march  in recovery from the great financial crisis
+
+on september   the fed made a bps rate cut greater than expected despite reasonably good economic data markets rallied for about  weeks and spx closed at an alltime high today october  
+
+this is not financial advice nearly as much as it is anecdotal evidence that we live in the matrix
+
+other thoughts
+
+the sahm rule stood at only bps as of the unemployment reading of september  as opposed to bps in september  albeit unemployment was generally higher right around  between late  additionally the parttime gig economy is massive today compared to  but bls still counts that as not unemployed
+
+the vix was hovering between  during the october  market peak compared to  today
+
+yearoveryear cpi change from december  to december  was  so inflation was not dead when the fed started their easing cycle the bond market is implying a similar problem in todays economy with increasing us treasury yields although current yoy cpi readings are generally lower today than in 
+
+unlike  this is an election year and i operate under the assumption that all current bls statistics are not just cooked but deep fried
+
+edit going to try to address some of the repeated comments im seeing here
+
+past performance doesnt guarantee future results
+
+of course the main point of this post was to highlight the similarities in timelines between today and  years ago our economic situation is massively different although id argue still weak
+
+but theres no subprime crisis
+
+right probably not however we still have skyrocketing consumer credit defaults paired with an abysmally low personal savings rate additionally we have something along the lines of  trillion cre loans with balloon payments or adjustable rates kicking in within the next  months on a bunch of loans that are underwater with their respective banks and many of which have been collateralized into clos and sold both domestically and internationally i still think there will be some blood in the water
+
+additionally the median house price to median income ratio is higher today than it was at its  absolute peak so id still argue that real estate has been overspeculated
+
+the government wont let the market crash during an election year
+
+probably not in fact theres a very real scenario where the fed steps in with hyperqe if things hit the fan congress is scheduled to meet in january  to negotiate the current us debt ceiling and the us frankly cant afford a recession right now  they need those tax dollars hyperinflation to erode the real value of the us debt and prop up the markets is highly plausible imo
+
+dumb ber
+
+dumb bol
+
+positions or ban
+
+im short term bullish on bonds tlt just bounced off its  sma twice and i wouldnt be surprised to see investors eat up those nice high yields if earnings season goes sour i have  figures on tlt calls expiring postelection im gonna wait on spx plays until the election is over
+
+tldr the fed cut rates on the exact same date  in  as  and spx hit an alltime high on the exact same date  in  as  except it was a massive crash afterwards in  trippy"
+7,5,1728608211.0,"9k on NETFLIX OPTIONS EASILY CAN NETFLIX ACTIVE A 600BILLION DOLLAR MARKET CAP 
+
+Just weight it again”my 600LB Life” of the show keeps going we print
+
+Not only watch hours all time high 
+
+
+YOLO ALOS HAVE 100 sheas I bought at $390 I’m holding!","k on netflix options easily can netflix active a billion dollar market cap 
+
+just weight it againmy lb life of the show keeps going we print
+
+not only watch hours all time high 
+
+
+yolo alos have  sheas i bought at  im holding"
+88,10,1728558003.0,TD reaches $70M class-action settlement on broker commissions ,td reaches m classaction settlement on broker commissions 
+7539,164,1728471943.0,I am naive ,i am naive 
+183,81,1728538888.0,"Investing and Trading has Evolved. Tell Historians to Suck It Let's keep this brief potato heads. Go watch some NHL video from 1980. Now watch some NHL video from today. Those idiots in 1980 would absolutely suck today. They'd be too slow and too dumb to play anywhere near the top league today. Same with other sports. 
+
+That's human nature. Through time we improve incrementally. We use the knowledge of prior generations as a base and add to it. So it's no surprise that an NBA player from 1980 would look like Krusty the Clown on a modern NBA team.
+
+Well guess what, same shit has happened in investing & trading. And on an even bigger scale. The stakes are much higher. Instead of your high school star athlete making the big leagues, we're talking about the most powerful companies in the world making superyacht money. The amount of resources devoted to ""solving"" markets is astronomical.
+
+So now we have a different landscape from your dad's stupid tech company in 1998. Yeah, they were cute firing up their shitty computers and randomly pressing some buttons in a suit & tie. Investors were onto something back in the 90's tech bubble though. They realized the trick to investing...
+
+FRONT RUN EVERYTHING
+
+Yeah bitch. Front run fucking everything. Radio on the internet? Fuck it, here's a billion dollars. Pets.com? Sure, you get $500M. Yeah, they took it a little too far in the 90's. But guess what, they were right. The internet was the future and the right early bets on internet companies made you wildly rich.
+
+The reality was that, you could be wrong on 20 picks so long as you had the 1 Amazon / Microsoft / Apple. Plus, since people weren't front running as much back then, you didn't need to drop 100X Price-Sales on most of these picks (pre-1999). So who the fuck cares if you bought [Pets.com](http://Pets.com), [Broadcast.com](http://Broadcast.com), your dad's shitty tech startup? So long as you just accidentally bought one of the fucking juggernauts, all mistakes were easily forgiven.
+
+So yeah, today we are thinking ""DAMN, Everything is so Expensive!"" ""AI is a Bubble!"" But guess what, that's just Boomer talk. From now on, everything that has a remote chance at being successful is gonna be front run to shit. You can forget about getting in at the bottom floor. Once an industry even hints that it will make a splash, some bastards are going to buy the shit out of it. The days where your dumb ass is gonna find Tesla at $10 or NVDA at $50 are long gone buddy.
+
+So thanks for coming to my Ted Talk. Stop crying about valuations. The market is just smarter than it used to be. No one's saying THE PRICE IS RIGHT. They just don't give a fuck. Because a single 100X excuses 99 dingleberries.","investing and trading has evolved tell historians to suck it lets keep this brief potato heads go watch some nhl video from  now watch some nhl video from today those idiots in  would absolutely suck today theyd be too slow and too dumb to play anywhere near the top league today same with other sports 
+
+thats human nature through time we improve incrementally we use the knowledge of prior generations as a base and add to it so its no surprise that an nba player from  would look like krusty the clown on a modern nba team
+
+well guess what same shit has happened in investing  trading and on an even bigger scale the stakes are much higher instead of your high school star athlete making the big leagues were talking about the most powerful companies in the world making superyacht money the amount of resources devoted to solving markets is astronomical
+
+so now we have a different landscape from your dads stupid tech company in  yeah they were cute firing up their shitty computers and randomly pressing some buttons in a suit  tie investors were onto something back in the s tech bubble though they realized the trick to investing
+
+front run everything
+
+yeah bitch front run fucking everything radio on the internet fuck it heres a billion dollars petscom sure you get m yeah they took it a little too far in the s but guess what they were right the internet was the future and the right early bets on internet companies made you wildly rich
+
+the reality was that you could be wrong on  picks so long as you had the  amazon  microsoft  apple plus since people werent front running as much back then you didnt need to drop x pricesales on most of these picks pre so who the fuck cares if you bought petscom broadcastcom your dads shitty tech startup so long as you just accidentally bought one of the fucking juggernauts all mistakes were easily forgiven
+
+so yeah today we are thinking damn everything is so expensive ai is a bubble but guess what thats just boomer talk from now on everything that has a remote chance at being successful is gonna be front run to shit you can forget about getting in at the bottom floor once an industry even hints that it will make a splash some bastards are going to buy the shit out of it the days where your dumb ass is gonna find tesla at  or nvda at  are long gone buddy
+
+so thanks for coming to my ted talk stop crying about valuations the market is just smarter than it used to be no ones saying the price is right they just dont give a fuck because a single x excuses  dingleberries"
+4245,247,1728477103.0,"Do either all or none! I guess Judge Amit Mehta has GOOG puts.
+
+https://www.bloomberg.com/news/articles/2024-10-09/us-says-it-s-weighing-google-breakup-as-remedy-in-monopoly-case?leadSource=reddit_wall","do either all or none i guess judge amit mehta has goog puts
+
+"
+10,32,1728592402.0,NVIDIA IS TRASH TIER ,nvidia is trash tier 
+44,15,1728561128.0,"There will be blood 🩸  CPI results don’t matter
+
+Options activity for 10/11 look bearish
+
+RSI rising
+
+Two straight days of trading green green. 
+
+Either the market will be bloody today or my account will lol.
+
+Wish I had bought 10/11 expiration but depending on what happens today I’m turning 🐻 shortly.","there will be blood   cpi results dont matter
+
+options activity for  look bearish
+
+rsi rising
+
+two straight days of trading green green 
+
+either the market will be bloody today or my account will lol
+
+wish i had bought  expiration but depending on what happens today im turning  shortly"
+14,8,1728581837.0,"Private Equity Taking Peloton Private? (PTON) Listen up regards,
+
+[https://13f.info/manager/0001576350/cusip/70614W100](https://13f.info/manager/0001576350/cusip/70614W100)
+
+GTCR, actual investors and not regards like yourselves, is probably taking Peloton private. It owns 14 million shares as of June 30 (, with a likely cost of $3.22 per share, representing 3.775% of the company’s shares outstanding (CSO). While GTCR has a history of fully buying out closely-held companies, that is unlikely to be the case here. If its purpose is to influence the board, a significant ownership stake is generally around 5% to 10% or more, which can provide leverage in discussions with the company. GTCR would need to acquire at least another 5-6 million shares to surpass the 5% threshold, which would require the firm to file a Schedule 13D, indicating control intent. My speculation is that GTCR will continue to buy shares throughout this quarter and beyond to gain leverage with the board, especially as the company searches for a permanent CEO. The timing seems well-suited for both Peloton’s corporate restructuring and GTCR’s long-term strategy to influence control of the company. We will know more next quarter from its 13F disclosure. 
+
+Get on the rocket ships ","private equity taking peloton private pton listen up regards
+
+
+
+gtcr actual investors and not regards like yourselves is probably taking peloton private it owns  million shares as of june   with a likely cost of  per share representing  of the companys shares outstanding cso while gtcr has a history of fully buying out closelyheld companies that is unlikely to be the case here if its purpose is to influence the board a significant ownership stake is generally around  to  or more which can provide leverage in discussions with the company gtcr would need to acquire at least another  million shares to surpass the  threshold which would require the firm to file a schedule d indicating control intent my speculation is that gtcr will continue to buy shares throughout this quarter and beyond to gain leverage with the board especially as the company searches for a permanent ceo the timing seems wellsuited for both pelotons corporate restructuring and gtcrs longterm strategy to influence control of the company we will know more next quarter from its f disclosure 
+
+get on the rocket ships "
+267,149,1728514467.0,"Worst decisions of my life, so far On Monday, I went full regard. Decided to go all in on some QQQ calls after that big drop, but cut the trade early after it dropped more, about a 5k loss taken.
+
+Then my genius move was to buy into some YINN at literally the last minute possible (I didn’t realize this at the time until checking trade confirmations). God I wish something held me up for another 30 seconds. It had been running all day and I was confident GYNA would come back strong after a week off. What a life changer. 
+
+Now I’ve just been moping around the last few days, wondering what to do with my life lol. Most likely going to join the military and just start over. 
+
+Don’t be like me. I would do anything to go back and just put the phone down for the day. ","worst decisions of my life so far on monday i went full regard decided to go all in on some qqq calls after that big drop but cut the trade early after it dropped more about a k loss taken
+
+then my genius move was to buy into some yinn at literally the last minute possible i didnt realize this at the time until checking trade confirmations god i wish something held me up for another  seconds it had been running all day and i was confident gyna would come back strong after a week off what a life changer 
+
+now ive just been moping around the last few days wondering what to do with my life lol most likely going to join the military and just start over 
+
+dont be like me i would do anything to go back and just put the phone down for the day "
+467,237,1728503314.0,"Account Blown Up Took 2 months from my last blow up to get back to another fresh start. It's almost as if, I enjoy losing everything I earn. I guess I'm in the right spot. 
+
+Trading 0DTE QQQs. ","account blown up took  months from my last blow up to get back to another fresh start its almost as if i enjoy losing everything i earn i guess im in the right spot 
+
+trading dte qqqs "
+14,12,1728572197.0,"AT&T Retest Going into Earnings Just wanted to throw this out Becuase it looks like a great setup.
+
+AT&T is retestesting it's $21.30 support less then a month out of earnings.  It has rediculously low IV priced in and has great 3m, 6m, and 1y momentum going for it. 
+
+My play is 21.5c @.54 for Nov 1.  I expect it could easily retest $22 resistance before earnings even get here.  
+
+What are your thoughts? 
+
+","att retest going into earnings just wanted to throw this out becuase it looks like a great setup
+
+att is retestesting its  support less then a month out of earnings  it has rediculously low iv priced in and has great m m and y momentum going for it 
+
+my play is c  for nov   i expect it could easily retest  resistance before earnings even get here  
+
+what are your thoughts 
+
+"
+239,56,1728515531.0,"YOLO’d My Roth IRA into $HOOD, 137% Gain  No ragrets",yolod my roth ira into hood  gain  no ragrets
+962,85,1728487155.0,HOOD 100k gain sold,hood k gain sold
+177,19,1728518848.0,TD Bank Faces $3 Billion in Penalties and Growth Restrictions in U.S. Settlement ,td bank faces  billion in penalties and growth restrictions in us settlement 
+11,25,1728573127.0,"$JPM earnings play with DD. I am currently holding puts as I am expecting 20% movement downwards.
+213.45 - 20% = 170.76 
+50 puts = 5000
+195 (my position)-170.76 = 24.24 
+5,000 x 24.24 = 121,200 $ 
+
+The things which I am looking at are 
+
+1. Need to pay back
+ £12,236 LLOYDS bank 
+2. £ 4,145 HSBC
+3. £ 8,086 Barclays 
+4 £ 2,430 Capitalone (credit card 
+5. £ 1,730 Barclays (credit card)
+6. £ 983 Lloyds (credit card 
+7. £ 9000 to couple of my friends (borrowed)
+8. 1,850 Rent (home 
+9. £ 183 Gas & Electricity bills 
+10. £ 450 car repair.
+
+With the rest of the money I will buy a mortgage house and gift it to my wife’s boyfriend .","jpm earnings play with dd i am currently holding puts as i am expecting  movement downwards
+     
+ puts  
+ my position   
+ x     
+
+the things which i am looking at are 
+
+ need to pay back
+  lloyds bank 
+   hsbc
+   barclays 
+   capitalone credit card 
+   barclays credit card
+   lloyds credit card 
+   to couple of my friends borrowed
+  rent home 
+   gas  electricity bills 
+   car repair
+
+with the rest of the money i will buy a mortgage house and gift it to my wifes boyfriend "
+409,186,1728502273.0,I suck If I would quit losing I might start winning!! I suck at this,i suck if i would quit losing i might start winning i suck at this
+3,3,1728611825.0,The bull gores my position! I can not post in the discord but HEY!,the bull gores my position i can not post in the discord but hey
+4,2,1728584369.0,"+(RBRK) Rubrik Break Out Microsoft and LightSpeed backed Rubrik seems to be breaking out, up nearly 30% in the last week. Been stagnant since it's IPO in April hanging in low $30s not doing much. Jump on board? Or time to short now that it's up to nearly $39? ",rbrk rubrik break out microsoft and lightspeed backed rubrik seems to be breaking out up nearly  in the last week been stagnant since its ipo in april hanging in low s not doing much jump on board or time to short now that its up to nearly  
+15,3,1728557139.0,"DAL Q4 earnings print underwhelms with EPS and revenue miss, guidance in line with estimates; stock down 5% premarket ",dal q earnings print underwhelms with eps and revenue miss guidance in line with estimates stock down  premarket 
+11,13,1728560343.0,I only need to do it 999 times more  I know it’s nothing compared to you guys but I just need to do it another 999 times to become a millionaire,i only need to do it  times more  i know its nothing compared to you guys but i just need to do it another  times to become a millionaire
+373,299,1728494518.0,"Lululemon: Is this 45% drop an opportunity? Lululemon (LULU) is down 45% this year, but the fundamentals actually look really good.
+
+
+
+**The Numbers** 
+
+* **Market Cap:** $34 billion
+* **Debt:** Zero. Yep, you read that right. Lululemon has a clean balance sheet.
+* **Free Cash Flow:** Last year, they generated $1.7 billion in free cash flow, which is pretty solid compared to their $1.6 billion net income. 
+
+
+
+**Growth Rates Are Great**
+
+* **10-Year Revenue Growth:** 19.7%
+* **5-Year Revenue Growth:** 23.5%
+* **3-Year Revenue Growth:** 25.5%
+
+
+
+Lululemon has been on a growth tear, but the stock price has taken a hit. It peaked at $516 in December 2023 and is now down about 45%. I don't know the story for the drop.
+
+https://preview.redd.it/3wduisujlrtd1.png?width=2336&format=png&auto=webp&s=f7159d2bb9c643b8765a2aa7ed55b3f1d85ef25c
+
+**Brand Power**
+
+Lulu has a cult-like following. People love this brand. The community and lifestyle they promote are strong. But sentiment can shift quickly, and that’s what we’re seeing now.
+
+
+
+**Break Down**
+
+* **ROIC:** Amazing returns on invested capital.
+* **Cash Flow Growth:** More cash flow growth than net income growth over the last five years.
+* **Low Debt:** They’re in a great position here.
+
+
+
+**Analyst Projections**
+
+Analysts expect Lululemon to double its EPS by January 2029. Feels bold but really just a matter of it's old multiples coming back into play.
+
+https://preview.redd.it/wsto3yjllrtd1.png?width=2422&format=png&auto=webp&s=8a72d475d9ccc66ee68fd6603433ba6f2aac4d88
+
+So at what price does buying LULU seem obvious to you?","lululemon is this  drop an opportunity lululemon lulu is down  this year but the fundamentals actually look really good
+
+
+
+the numbers 
+
+ market cap  billion
+ debt zero yep you read that right lululemon has a clean balance sheet
+ free cash flow last year they generated  billion in free cash flow which is pretty solid compared to their  billion net income 
+
+
+
+growth rates are great
+
+ year revenue growth 
+ year revenue growth 
+ year revenue growth 
+
+
+
+lululemon has been on a growth tear but the stock price has taken a hit it peaked at  in december  and is now down about  i dont know the story for the drop
+
+
+
+brand power
+
+lulu has a cultlike following people love this brand the community and lifestyle they promote are strong but sentiment can shift quickly and thats what were seeing now
+
+
+
+break down
+
+ roic amazing returns on invested capital
+ cash flow growth more cash flow growth than net income growth over the last five years
+ low debt theyre in a great position here
+
+
+
+analyst projections
+
+analysts expect lululemon to double its eps by january  feels bold but really just a matter of its old multiples coming back into play
+
+
+
+so at what price does buying lulu seem obvious to you"
+437,190,1728491034.0,"All in on LUNR I've been trading Intuitive Machines since mid 2023 and after the IM1 pullback consolidated my whole portfolio into Jan LUNR call options. The price is down today after spiking to $9 post NSN contract announcement. I look for a culmination of factors - not the least of which is a solid, cohesive, and inspired core team - when making such a bet, and I am supremely confident this stock will hit at least $12 by end of year with the potential, of course, to run much higher. This is how I anticipate it playing out.
+
+The recent 4.8B NSN contract win is mind blowing. The market, in my view, has not yet come to terms with the implications of this contract as we see the price today pulling back to the low 7s. As we make our way to Nov earnings we should expect a gradual increase and a solid earnings beat, which will propel the stock higher leading up to the second moon landing mission (IM2) currently on track for early 2025. Exact date has yet to be announced. IM1 ralled the stock to $13 before it came back to earth. IM2 may not have the same hype, but the company is in a radically different position than it was a year prior.
+
+Buying this stock today is a steal and if I had more to invest I'd pull the trigger without hesitation. NFA, DYOR, etc.
+
+https://preview.redd.it/fhtu6gj1brtd1.png?width=2864&format=png&auto=webp&s=5e3694de63240c329b8e5da4036f93a4bb76371a
+
+PS. I have RKLB as a close second in terms of value. I'd be in RKLB too if I didn't put everything in LUNR. I may diversify into RKLB at some point in Q1. Once these calls are realized I'll likely just buy and hold the stock long term.
+
+Edit: PSS I bought the dip this morning with that remaining $682 ;) ","all in on lunr ive been trading intuitive machines since mid  and after the im pullback consolidated my whole portfolio into jan lunr call options the price is down today after spiking to  post nsn contract announcement i look for a culmination of factors  not the least of which is a solid cohesive and inspired core team  when making such a bet and i am supremely confident this stock will hit at least  by end of year with the potential of course to run much higher this is how i anticipate it playing out
+
+the recent b nsn contract win is mind blowing the market in my view has not yet come to terms with the implications of this contract as we see the price today pulling back to the low s as we make our way to nov earnings we should expect a gradual increase and a solid earnings beat which will propel the stock higher leading up to the second moon landing mission im currently on track for early  exact date has yet to be announced im ralled the stock to  before it came back to earth im may not have the same hype but the company is in a radically different position than it was a year prior
+
+buying this stock today is a steal and if i had more to invest id pull the trigger without hesitation nfa dyor etc
+
+
+
+ps i have rklb as a close second in terms of value id be in rklb too if i didnt put everything in lunr i may diversify into rklb at some point in q once these calls are realized ill likely just buy and hold the stock long term
+
+edit pss i bought the dip this morning with that remaining   "
+37,34,1728537006.0,Here we go again I guess I should’ve learned my lesson..,here we go again i guess i shouldve learned my lesson
+92,70,1728520008.0,"$CELH drink up, we're going now  https://preview.redd.it/g1zfyjtnlttd1.png?width=1170&format=png&auto=webp&s=ac77c884d6416d748524779faae89d8b2f6d1d48
+
+Celsius ($CELH) the 200mg caffeine nectar from the Gods that blasted onto, and disrupted, the entire energy drink scene.  The growth has been unprecedented in the soft drink scene.  Revenue has grown 24% YOY, and increased $80 million dollars last quarter alone.   Not only is it growing fast, but profit margins also keep improving each quarter.  This is a healthy, thriving, and GROWING business.  Foreign markets are still essentially untapped; once it expands globally, this thing will be a giant.  The stock price this year, however, has not been reflective of the company's success.  Pepsi is one of the main distributors of Celsius, and they bought a little too much inventory so there will be some smaller orders in the short term.  Ok cool, don't care.  There has been some bad press around the energy drink market in general saying consumers are buying less because of inflation.  Still don't care.  $CELH is now cheaper on a P/E basis than Coca-Cola, which is a ZERO GROWTH stagnant company.  While the stock has been getting gutted this year, every cuck on wallstreet has put their grubby little hands in the honey pot and sold it short; and short interest has now grown to \~13%.  But ut-oh, is that Celsius' music? A 10% rip today is going to be a big problem if you're short.  Through this entire downswing, institutional investors have been gobbling up the stock, increasing their positions by more that 400% so far in 2024.  The smart money knows that this is a healthy company with bad press and charmin-soft mfs selling it for way too cheap.  It's currently extremely oversold based on the RSI and the MACD is curling.  I think it's coming back in a big way. The fundamentals are there.  The analytics are there.  Where are you?  
+
+Disclaimer: I am two celsius deep rn ","celh drink up were going now  
+
+celsius celh the mg caffeine nectar from the gods that blasted onto and disrupted the entire energy drink scene  the growth has been unprecedented in the soft drink scene  revenue has grown  yoy and increased  million dollars last quarter alone   not only is it growing fast but profit margins also keep improving each quarter  this is a healthy thriving and growing business  foreign markets are still essentially untapped once it expands globally this thing will be a giant  the stock price this year however has not been reflective of the companys success  pepsi is one of the main distributors of celsius and they bought a little too much inventory so there will be some smaller orders in the short term  ok cool dont care  there has been some bad press around the energy drink market in general saying consumers are buying less because of inflation  still dont care  celh is now cheaper on a pe basis than cocacola which is a zero growth stagnant company  while the stock has been getting gutted this year every cuck on wallstreet has put their grubby little hands in the honey pot and sold it short and short interest has now grown to   but utoh is that celsius music a  rip today is going to be a big problem if youre short  through this entire downswing institutional investors have been gobbling up the stock increasing their positions by more that  so far in   the smart money knows that this is a healthy company with bad press and charminsoft mfs selling it for way too cheap  its currently extremely oversold based on the rsi and the macd is curling  i think its coming back in a big way the fundamentals are there  the analytics are there  where are you  
+
+disclaimer i am two celsius deep rn "
+5,3,1728572453.0,"Pre-earnings calls on INGR (Ingredion) I bought 20 INGR 11/15 C $130 this morning to profit from an expected run-up in IV and delta prior to earnings being released on 11/5.
+
+I'm using the same analysis that I used for ADSK (+40% return), GTLB (+45% return), COST (+20% return), PGR (+28% return), and CAT (+25% return). You can see deets on those in my post history.
+
+First, here's what my model predicts:
+
+https://preview.redd.it/mw8a6y2ozxtd1.png?width=1858&format=png&auto=webp&s=50eef67e1fb2c60b19ab43fe56b7bad8c96ce6a2
+
+It says a fair value right now for the contracts is about $7.5; I got mine for $7. A Monte Carlo simulation based on the underlying stock's historical behavior in the 30 days leading up to earnings and ATM contract IV run-up suggests the option should, on average, rise in value over the next 30 days. The upper red line is the 90% percentile, the blue line is the mean, and the lower lines are the 10% and 1%, respectively.
+
+Based on fundamentals, I think we'll see the stock rise over the next 30 days, because:
+
+* INGR always beats EPS estimates, so as forecasts start getting dialed in over the next few weeks, buying should pick up.
+* The company has an internal initiative called ""Cost2Compete"", started last year, where they're driving down costs. As they predicted, this year sale revenue is down, but because of Cost2Compete their costs are down *lower* and so profit is up YoY.
+* They are targeting $50M in cost savings by end of 2025, and are at $18M currently. They didn't revise that $50M number, so I expect to see higher savings this quarter than last, meaning even *higher* profitability.
+* They withstood inflation and high rates just fine, and their forex impacts were a wash so far this year, so as inflation drops, sales should pick up. Combined with reduced costs, they should show excellent earnings, and I think the market will foresee that.
+* Their guidance for this coming quarter is still conservative, and was made pre-rate cuts and inflation reports, so sales might *already* be up.
+
+I'll be looking to close this one around 25-30%, depending on how IV goes over the next week or two.","preearnings calls on ingr ingredion i bought  ingr  c  this morning to profit from an expected runup in iv and delta prior to earnings being released on 
+
+im using the same analysis that i used for adsk  return gtlb  return cost  return pgr  return and cat  return you can see deets on those in my post history
+
+first heres what my model predicts
+
+
+
+it says a fair value right now for the contracts is about  i got mine for  a monte carlo simulation based on the underlying stocks historical behavior in the  days leading up to earnings and atm contract iv runup suggests the option should on average rise in value over the next  days the upper red line is the  percentile the blue line is the mean and the lower lines are the  and  respectively
+
+based on fundamentals i think well see the stock rise over the next  days because
+
+ ingr always beats eps estimates so as forecasts start getting dialed in over the next few weeks buying should pick up
+ the company has an internal initiative called costcompete started last year where theyre driving down costs as they predicted this year sale revenue is down but because of costcompete their costs are down lower and so profit is up yoy
+ they are targeting m in cost savings by end of  and are at m currently they didnt revise that m number so i expect to see higher savings this quarter than last meaning even higher profitability
+ they withstood inflation and high rates just fine and their forex impacts were a wash so far this year so as inflation drops sales should pick up combined with reduced costs they should show excellent earnings and i think the market will foresee that
+ their guidance for this coming quarter is still conservative and was made prerate cuts and inflation reports so sales might already be up
+
+ill be looking to close this one around  depending on how iv goes over the next week or two"
+6,9,1728567631.0,"Put LEAPS on VIX ETFs? I view this sub as a great place to double-check my idiotic options plays with people that actually know what they're doing. So my current crusade is essentially just buying LEAP puts on VIX ETFs such as UVXY and UVIX. This isn't the typical ""Short the VIX"" play, as my bearishness on these ETFs comes from something else. The conviction I have for this play comes from the long-term backwardation that occurs with these futures ETFs, where if you literally zoom out to any time frame longer than 2 years on any VIX futures ETF, you will see that most of them are down 70-90% from that time frame, and if you check their whole price history since their inception, it will most probably be down like 99%. I've only checked the price history of put options on UVXY dating back to about 6 months ago, and it seems like the prices are trending up like I expected them, but I would like to get some more price data dating back to as long as possible to see there isn't some regarded options variable I forgot to consider, which is why I have reserved some time at my university's trading lab on a bloomberg terminal later this week to get that price history. I will report back with my findings and if they support my hypothesis, then I will probably go through with this play (also if no one tells me that there is some insanely complicated way that I'm gonna get fucked with this play on this sub).
+
+So, am I the CEO of Dunning-Kruger, or am I onto something?","put leaps on vix etfs i view this sub as a great place to doublecheck my idiotic options plays with people that actually know what theyre doing so my current crusade is essentially just buying leap puts on vix etfs such as uvxy and uvix this isnt the typical short the vix play as my bearishness on these etfs comes from something else the conviction i have for this play comes from the longterm backwardation that occurs with these futures etfs where if you literally zoom out to any time frame longer than  years on any vix futures etf you will see that most of them are down  from that time frame and if you check their whole price history since their inception it will most probably be down like  ive only checked the price history of put options on uvxy dating back to about  months ago and it seems like the prices are trending up like i expected them but i would like to get some more price data dating back to as long as possible to see there isnt some regarded options variable i forgot to consider which is why i have reserved some time at my universitys trading lab on a bloomberg terminal later this week to get that price history i will report back with my findings and if they support my hypothesis then i will probably go through with this play also if no one tells me that there is some insanely complicated way that im gonna get fucked with this play on this sub
+
+so am i the ceo of dunningkruger or am i onto something"
+5,2,1728577477.0,"$HUBS 12K Yolo  |  11/15 expiry  |  600.00 C  |  9.41 Cost  |  13 QTY Last week I was down \~80% on these contracts, but I held.
+
+https://preview.redd.it/0bp2aolnfytd1.png?width=812&format=png&auto=webp&s=350a84288fc9754edc44aaa721939ac02d47aacf
+
+  
+The price took a decent sized dip when the Google takeover rumors died.  
+I'm looking for some gap fills up to \~558 and \~586.
+
+https://preview.redd.it/oqd3l5hxfytd1.png?width=1175&format=png&auto=webp&s=4edffa15090b88d4f655bcacfa9ec1494ee81bdc
+
+
+
+My contracts expire after their next earnings, I'm inclined to hold until expiration.  
+Inverse at your own risk.","hubs k yolo     expiry     c     cost     qty last week i was down  on these contracts but i held
+
+
+
+  
+the price took a decent sized dip when the google takeover rumors died  
+im looking for some gap fills up to  and 
+
+
+
+
+
+my contracts expire after their next earnings im inclined to hold until expiration  
+inverse at your own risk"
+0,80,1728631486.0,"Taking out a loan to trade with.  I know I know. But hear me out. 
+
+My business got approached by one of our previous loan providers for another loan. With a previous partnership and excellent repayment history, they are offering a very good rate. Essentially we are almost certainly going to do a 50k loan, but we were approved for up to 150k. 
+
+There lies the problem. I have had great success wheeling dumb stocks, but I thought with the extra 100k I could wheel SPY which is considered as safe as it gets. The premium from weekly selling CSP and CCs would be more than the interest by a pretty significant percentage. 
+
+
+So, how good or bad of an idea is it to take out an extra 100k for wheeling SPY? ","taking out a loan to trade with  i know i know but hear me out 
+
+my business got approached by one of our previous loan providers for another loan with a previous partnership and excellent repayment history they are offering a very good rate essentially we are almost certainly going to do a k loan but we were approved for up to k 
+
+there lies the problem i have had great success wheeling dumb stocks but i thought with the extra k i could wheel spy which is considered as safe as it gets the premium from weekly selling csp and ccs would be more than the interest by a pretty significant percentage 
+
+
+so how good or bad of an idea is it to take out an extra k for wheeling spy "
+0,3,1728601125.0,"Is Inflation more like an Regional Issue? https://preview.redd.it/4t9nvzhfe0ud1.jpg?width=513&format=pjpg&auto=webp&s=b4946018a0ed3736ccc079f3ca6d00c44441299a
+
+","is inflation more like an regional issue 
+
+"
+139,31,1728504736.0,From Heaven to Hell. ,from heaven to hell 
+36,21,1728530022.0,"China Central Bank Announces Swap Facility to aid Stock Market Maybe my calls will print.
+","china central bank announces swap facility to aid stock market maybe my calls will print
+"
+141,4145,1728503832.0,"What Are Your Moves Tomorrow, October 10, 2024 [View Post](https://sh.reddit.com/r/wallstreetbets/comments/1g00jie)",what are your moves tomorrow october   view post
+2,11,1728584153.0,TMF Yolo Too much fear of inflation looming IMO. I dont think the economy is so healthy compared to the actual job market data,tmf yolo too much fear of inflation looming imo i dont think the economy is so healthy compared to the actual job market data
+70,34,1728514834.0,"Placed my bet.  Down we go, hopefully. 🤞Plan to average down the position after CPI, if it moves the market up.",placed my bet  down we go hopefully plan to average down the position after cpi if it moves the market up
+161,95,1728497463.0,"China's economy is struggling even with state aid. Sorry to those who invested in chinese companies, ya'll are about to get a proper fisting.
+
+https://preview.redd.it/tj35qm5ourtd1.jpg?width=1480&format=pjpg&auto=webp&s=991366f4642e7eabe558f4b8a080761bdcd4485e
+
+PX: [https://phalanxresearch.com/workspaces/1/news/CHINA\_BANK\_INJECTION?topic=BUSINESS](https://phalanxresearch.com/workspaces/1/news/CHINA_BANK_INJECTION?topic=BUSINESS)
+
+FB: [https://www.forbes.com/sites/garthfriesen/2024/10/09/chinas-stimulus-measures-a-temporary-bandage-on-deeper-economic-issues/](https://www.forbes.com/sites/garthfriesen/2024/10/09/chinas-stimulus-measures-a-temporary-bandage-on-deeper-economic-issues/)
+
+BLOOM: [https://www.bloomberg.com/news/articles/2024-10-08/world-bank-warns-china-s-slowdown-may-deepen-pressure-east-asia](https://www.bloomberg.com/news/articles/2024-10-08/world-bank-warns-china-s-slowdown-may-deepen-pressure-east-asia)","chinas economy is struggling even with state aid sorry to those who invested in chinese companies yall are about to get a proper fisting
+
+
+
+px 
+
+fb 
+
+bloom "
+1397,89,1728454332.0,"TSMC Q3 Revenue Surpasses Forecast with 36.5% YoY Growth TSMC's revenue for the July-September period reached T$759.69 billion ($23.62 billion), according to Reuters calculations, surpassing the LSEG SmartEstimate of T$750.36 billion ($23.33 billion) from 23 analysts. This represents a 36.5% year-on-year growth, compared to $17.3 billion in the same period last year.
+
+TSMC's third-quarter revenue has significantly outperformed market forecasts.
+
+Source: [TSMC's third-quarter revenue easily beats market forecast](https://www.tradingview.com/news/reuters.com,2024:newsml_L1N3LL05S:0-tsmc-s-third-quarter-revenue-easily-beats-market-forecast/)","tsmc q revenue surpasses forecast with  yoy growth tsmcs revenue for the julyseptember period reached t billion  billion according to reuters calculations surpassing the lseg smartestimate of t billion  billion from  analysts this represents a  yearonyear growth compared to  billion in the same period last year
+
+tsmcs thirdquarter revenue has significantly outperformed market forecasts
+
+source tsmcs thirdquarter revenue easily beats market forecast"
+3,6,1728581757.0,"There's a chance, right?  https://preview.redd.it/t2509zkzsytd1.png?width=1277&format=png&auto=webp&s=b1425834f62c1495c2f1589cb1d160153a51e05d
+
+","theres a chance right  
+
+"
+0,28,1728616455.0,"Tesla Robotaxi Unveiled, Seen As Much-Awaited Key to Long-Term Growth ",tesla robotaxi unveiled seen as muchawaited key to longterm growth 
+6,1,1728562588.0,"Barnes Group going private, Shareholders to Receive $47.50 Per Share in Cash ",barnes group going private shareholders to receive  per share in cash 
+0,62,1728593037.0,Got NUMB of loosing money🤦‍♂️ Idk what should I do. I keep on trading 0DTE SPY/SPX and lost all my money. And I started trading option from Feb 2024. I don’t know what should I do. Now after loosing I want to deposit more money 🤷‍♂️. ,got numb of loosing money idk what should i do i keep on trading dte spyspx and lost all my money and i started trading option from feb  i dont know what should i do now after loosing i want to deposit more money  
+47,78,1728518171.0,Robinhood cofounder to set up hundreds of solar panels in space ,robinhood cofounder to set up hundreds of solar panels in space 
+1784,336,1728440263.0,Hit 200k today. Also fuk u to everyone who called me regarded for buying Nvidia earnings. 65% return ytd shares no options.  Sitting on 90 cash bc Charlie Schwab is fisting me rn… suggestions for next investment? (I’ve already made up my mind) ,hit k today also fuk u to everyone who called me regarded for buying nvidia earnings  return ytd shares no options  sitting on  cash bc charlie schwab is fisting me rn suggestions for next investment ive already made up my mind 
+59,30,1728507258.0,am i regarded taking out a loan for more odte spy puts,am i regarded taking out a loan for more odte spy puts
+51,10,1728508130.0,On my way to break even  I’m going to replicate this last week 8 times and then put the funds in an index,on my way to break even  im going to replicate this last week  times and then put the funds in an index
+971,36,1728450340.0,Definitely have lost enough to be hired Yolos right into their dumpster,definitely have lost enough to be hired yolos right into their dumpster
+57,46,1728503788.0,"I guess my MACD strategy was trash I tried scalping QQQ puts and calls with the MACD indicators at a fast length of 3, slow length of 10. I would enter an order as soon as I saw a crossover but it would repaint immediately after and I would either sell to early or bag hold for a significant loss It’s gonna take me a month to recover from this with my current day job paychecks. This is the worst financial decision I’ve ever made. I oversimplified the complexity of options and got completely obliterated. The emptiness I feel in my chest hurts so much. Don’t be like me.",i guess my macd strategy was trash i tried scalping qqq puts and calls with the macd indicators at a fast length of  slow length of  i would enter an order as soon as i saw a crossover but it would repaint immediately after and i would either sell to early or bag hold for a significant loss its gonna take me a month to recover from this with my current day job paychecks this is the worst financial decision ive ever made i oversimplified the complexity of options and got completely obliterated the emptiness i feel in my chest hurts so much dont be like me
+43,58,1728508376.0,"lost my account  i’ve fulfilled the legacy. started off at 9k, over the past 10 months been slowly growing. was at 28k for past few days. Today jumped into $QQQ puts and kept averaging down due to no volume and everything happening in the world (hurricane, war, china cut rates, cpi tmrw). kept going and lost it all. idk how i’ll bounce back but i’ll hopefully find a way. setting +20% limit sell and -20% stop less and pushing $QQQ or $SPY options every morning from now on to at least get back to the $10k range. i know it’s risky but i just lost my whole account and months of work. i’ve always read the stories of ppl who lost it all but wow averaging down this is what happens. how do i cope? idk. ",lost my account  ive fulfilled the legacy started off at k over the past  months been slowly growing was at k for past few days today jumped into qqq puts and kept averaging down due to no volume and everything happening in the world hurricane war china cut rates cpi tmrw kept going and lost it all idk how ill bounce back but ill hopefully find a way setting  limit sell and  stop less and pushing qqq or spy options every morning from now on to at least get back to the k range i know its risky but i just lost my whole account and months of work ive always read the stories of ppl who lost it all but wow averaging down this is what happens how do i cope idk 
